@@ -1,0 +1,2 @@
+auto-dl-setup-rtorrent
+======================
